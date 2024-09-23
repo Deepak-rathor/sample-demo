@@ -1,4 +1,4 @@
 # sample-demo
 first git
 <br>
-Author - Deepak
+Author - Deepak Rathor
